@@ -60,11 +60,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="menu.h" />
     <ClInclude Include="QueueArray.h" />
     <ClInclude Include="utility.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="driver.cpp" />
+    <ClCompile Include="menu.cpp" />
     <ClCompile Include="QueueArray.cpp" />
     <ClCompile Include="utiliity.cpp" />
   </ItemGroup>
